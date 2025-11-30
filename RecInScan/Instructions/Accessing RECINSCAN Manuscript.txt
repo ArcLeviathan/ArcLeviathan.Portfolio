@@ -1,0 +1,14 @@
+Look for a file named something like:
+RECINSCAN Manuscript.pdf
+
+Double-click the PDF file to open it.
+
+The file should open in your default PDF reader (such as Adobe Acrobat Reader or your browser).
+
+You can also save a copy of the PDF to your computer by right-clicking the file and selecting "Copy", then pasting it into a folder on your desktop or documents.
+
+Troubleshooting
+
+Make sure your PDF reader is installed and up to date.
+
+If the file doesn’t open, try right-clicking it and choosing "Open with" > [PDF reader].

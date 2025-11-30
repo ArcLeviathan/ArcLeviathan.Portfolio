@@ -1,0 +1,47 @@
+To open the web application directly.
+
+Look for a file named:
+recinscan.exe
+
+Double cick on the .exe file to access the web application from your default browser OR
+
+right click on the recinscan.exe and click Open to access the web application from your default browser
+
+
+--------------------------------------------------------------------
+If recinscan.exe fail to run
+Look for a txt file named:
+Link to webapp.txt
+
+Double-click the file to open it. It will open in your default text editor (like Notepad or TextEdit).
+
+Inside the file, you'll see a web link to the application.
+
+To Open the Web Application:
+Option 1:
+
+Click and drag your mouse to highlight the entire link.
+
+Right-click the highlighted text and select "Copy".
+
+Open your web browser and paste the link into the address bar.
+
+Press Enter to go to the web app.
+
+Option 2 (Keyboard Shortcut):
+
+Click anywhere inside the text file.
+
+Hold down Ctrl and press A to select all text.
+
+Press Ctrl + C to copy the link.
+
+Open your browser, click the address bar, and press Ctrl + V to paste.
+
+Press Enter to access the web app.
+
+Troubleshooting:
+If the web application is not accessible. Contact the following administrator:
+James Clark A. Periña (jamesclarkperina@gmail.com)
+Edward M. Salonga (edwardsalonga.programmer@gmail.com)
+Carlos Ivan M. Famisaran (famisarancarlosivan@gmail.com)

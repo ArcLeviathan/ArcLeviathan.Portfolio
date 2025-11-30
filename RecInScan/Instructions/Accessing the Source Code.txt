@@ -1,0 +1,33 @@
+✅ How to Run the RecInScan Project
+1. Open the RecInScan Folder
+Navigate to and open the RecInScan project folder.
+
+2. Import the Database
+Use XAMPP or any MySQL interface (e.g., phpMyAdmin, MySQL Workbench).
+
+Import the recinscan.sql file into your database.
+
+3. Open Source Code in VS Code
+Open Visual Studio Code.
+
+Click on File > Open Folder and select the RecInScan source code folder.
+
+4. (Optional) Set Up a Virtual Environment
+Create a virtual environment for managing external libraries:
+
+python -m venv venv         # Create virtual environment
+venv\Scripts\activate       # Activate it (Windows)
+venv/bin/activate           # Activate it (macOS/Linux)
+
+5. Install Required Libraries
+Install all necessary Python packages listed in requirements.txt:
+
+pip install -r requirements.txt
+
+6. Run the Application
+Start the Flask web application locally by running:
+
+python website.py
+
+The server should run at: http://127.0.0.1:5000
+
